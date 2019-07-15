@@ -1,10 +1,10 @@
 {
-    "name": "hp7/silverstripe-products",
-    "description": "testing Create a product catalog in SilverStripe",
+    "name": "dynamic/silverstripe-products",
+    "description": "Create a product catalog in SilverStripe",
     "authors": [
         {
-            "name": "hp7",
-            "email": "git@hprata.com"
+            "name": "Dynamic",
+            "email": "dev@dynamicagency.com"
         }
     ],
     "keywords": [
@@ -24,8 +24,8 @@
     },
     "autoload": {
         "psr-4": {
-            "hp7\\Products\\": "src",
-            "hp7\\Products\\Test\\": "tests"
+            "Dynamic\\Products\\": "src",
+            "Dynamic\\Products\\Test\\": "tests"
         }
     },
     "config": {
