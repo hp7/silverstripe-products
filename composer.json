@@ -24,8 +24,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Dynamic\\Products\\": "src",
-            "Dynamic\\Products\\Test\\": "tests"
+            "hp7\\Products\\": "src",
+            "hp7\\Products\\Test\\": "tests"
         }
     },
     "config": {
